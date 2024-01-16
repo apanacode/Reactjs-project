@@ -1,0 +1,38 @@
+#headsection{
+  font-weight: 700;
+  color:black;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #8db071
+}
+
+input{
+  margin: 5px;
+  border-color: blue;
+  border-radius: 5cm;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 100%;
+  pointer-events: painted;
+}
+
+center{
+  border-color: black;
+  border-style: dotted;
+}
+
+.itemsContainer{
+  text-align: left;
+  color:black;
+
+}
+
+.container{
+  font-weight: 790;
+}
+
+.row{
+  margin: 10px;
+}
